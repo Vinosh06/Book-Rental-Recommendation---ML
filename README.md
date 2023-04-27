@@ -45,7 +45,7 @@ BX-Book-Ratings: Contains the book rating information.
 
 - isbn
 
-- rating - Ratings (`Book-Rating`) are either explicit, expressed on a scale from 1–10 (higher values denoting higher appreciation), or implicit, expressed by 0.
+- rating - Ratings (Book-Rating) are either explicit, expressed on a scale from 1–10 (higher values denoting higher appreciation), or implicit, expressed by 0.
 
  
 
